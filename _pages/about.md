@@ -49,13 +49,10 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🧑‍⚖️ Students
+- *2021.09 - Now*, Hui Lin, Ph.D. Student, T-PAMI, T-NNLS, CVPR, AAAI, ACM MM, IJCAI  
+  (co-advised with Prof. Deyu Meng and Prof. Xiaopeng Hong) 
+- *2023.09 - Now*, Zhilin Zhu, Ph.D. Student, ECCV (co-advised with Prof. Xiaopeng Hong) 
+- *2024.09 - Now*, Yaohui Ma, Ph.D. Student, AAAI, T-CSVT (co-advised with Prof. Xiaopeng Hong and Prof. Shizhou Zhang) 
+- *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS (co-advised with Prof. Xing Wei)
+- *2024.09 - Now*, Xiangyu Zou, Master Student (co-advised with Prof. Huiyun Li)
