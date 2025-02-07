@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiheng Ma"
-description              : "Assistant Professor in the Faculty of Computility Microelectronics \n (算力微电子学院)"
+description              : "Assistant Professor in the Faculty of Computility Microelectronics"
 repository               : "zhiheng-ma/zhiheng-ma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -54,7 +54,7 @@ author:
   twitter          : “https://x.com/ma_zhiheng”
   vine             :
   weibo            :
-  xing             : “mazhi1100heng”
+  xing             : 
   youtube          :
   wikipedia        :
 
