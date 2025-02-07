@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiheng Ma"
-description              : "Zhiheng Ma‘s Acadamic Page’"
+description              : "Assistant Professor with the Faculty of Computility Microelectronics"
 repository               : "zhiheng-ma/zhiheng-ma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=y6ijVukAAAAJ"
   email            : "mazhiheng@suat-sz.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhiheng-Ma"
   uri              :
@@ -51,10 +51,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : “https://x.com/ma_zhiheng”
   vine             :
   weibo            :
-  xing             :
+  xing             : “mazhi1100heng”
   youtube          :
   wikipedia        :
 
