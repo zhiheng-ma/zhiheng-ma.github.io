@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiheng Ma"
-description              : "Assistant Professor with the Faculty of Computility Microelectronics"
+description              : "Assistant Professor in the Faculty of Computility Microelectronics (算力微电子学院)"
 repository               : "zhiheng-ma/zhiheng-ma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhihengCV"
+  github           : "zhiheng-ma"
   google_plus      :
   keybase          :
   instagram        :
