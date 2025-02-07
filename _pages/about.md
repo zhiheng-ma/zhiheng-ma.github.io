@@ -50,8 +50,7 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🧑‍⚖️ Students
-- *2021.09 - Now*, Hui Lin, Ph.D. Student, T-PAMI, T-NNLS, CVPR, AAAI, ACM MM, IJCAI  
-  (co-advised with Prof. Deyu Meng and Prof. Xiaopeng Hong) 
+- *2021.09 - Now*, Hui Lin, Ph.D. Student, T-PAMI, T-NNLS, CVPR, AAAI ... (co-advised with Prof. Deyu Meng and Prof. Xiaopeng Hong) 
 - *2023.09 - Now*, Zhilin Zhu, Ph.D. Student, ECCV (co-advised with Prof. Xiaopeng Hong) 
 - *2024.09 - Now*, Yaohui Ma, Ph.D. Student, AAAI, T-CSVT (co-advised with Prof. Xiaopeng Hong and Prof. Shizhou Zhang) 
 - *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS (co-advised with Prof. Xing Wei)
