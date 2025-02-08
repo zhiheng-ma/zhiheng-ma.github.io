@@ -47,8 +47,17 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* World Artificial Intelligence Conference (WAIC) SAIL Award - Rising Star
+- *2022* Shenzhen "Pengcheng Peacock" Special Employment Program (Category C)
+- *2021* "Science and Innovation China" Young Entrepreneur List
+- *2018* Gold Award (1st/5,272) - Alibaba Tianchi FashionAI Global Challenge: Clothing Attribute Recognition
+- *2019* Gold Award, Guangdong Industrial Manufacturing Big Data Innovation Application Competition 
+- *2021* Gold Award (1st/4,432) - Alibaba Tianchi Guangdong Industrial Manufacturing Big Data Innovation Competition: Tile Defect Detection
+- *2016* Silver Award - National Graduate Smart City Technology and Creative Design Competition, Intelligent Technology Challenge (Face Recognition Track)
+- *2018* Silver Award, 11th "Challenge Cup" Business Plan Competition
+- *2017* Silver Award - National Graduate Smart City Technology and Creative Design Competition, Intelligent Technology Challenge (Abnormal Behavior Detection Track) 
+- *2019* Silver Award (2nd/2,972) - Alibaba Tianchi Guangdong Industrial Manufacturing Big Data Innovation Competition: Aluminum Profile Defect Detection
+
 
 <span class='anchor' id='-students'></span>
 # 🧑‍⚖️ Students
