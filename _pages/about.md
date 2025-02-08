@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi😄! I'm Zhiheng Ma (马智恒), an Assistant Professor, PI and Ph.D. Supervisor in the Faculty of Computility Microelectronics (算力微电子学院) at Shenzhen University of Advanced Technology (SUAT, 深圳理工大学). Prior to this, I was an Assistant Research Professor at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, where I had the privilege to work with Prof. <a href='https://people.ucas.ac.cn/~lhy2015'>Huiyun Li</a>. I received my Ph.D. in 2021 from Xi'an Jiaotong University, under the supervision of IEEE Fellow Prof. <a href='https://gr.xjtu.edu.cn/web/ygong'>Yihong Gong</a> and co-supervision of Prof. <a href='https://hongxiaopeng.com'>Xiaopeng Hong</a>.
 
-My research lies at the fascinating intersection of Computer Vision, AI for Science, and Brain-inspired Intelligence. I am particularly passionate about three cutting-edge areas: Continual Learning (enabling AI systems to learn and adapt continuously), Data-efficient Learning (making AI more practical with limited data), and Multi-modal Learning (integrating information from multiple sources like human brains do). The ultimate goal of my research is to develop intelligent agents that can mirror human-like capabilities - autonomously conducting scientific exploration, continuously acquiring and adapting knowledge, and maintaining long-term memory.
+My research lies at the fascinating intersection of Computer Vision, AI for Science, and Brain-inspired Intelligence. I am particularly passionate about three cutting-edge areas: Continual Learning (enabling AI systems to learn and adapt continuously), Data-efficient Learning (making AI more practical with limited data and labels), and Multi-modal Learning (integrating information from multiple sources like human brains do). The ultimate goal of my research is to develop intelligent agents that can mirror human-like capabilities - autonomously conducting scientific exploration, continuously acquiring and adapting knowledge, and maintaining long-term memory.
 
 I have published more than 30 papers in top-tier AI journals and conferences. For more details about my research work, please check my Google Scholar profile <a href='https://scholar.google.com/citations?user=y6ijVukAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am actively seeking motivated students who share my passion for advancing the frontiers of AI and developing next-generation intelligent systems. If you're interested in joining my research group, please feel free to reach out!
 
@@ -31,7 +31,9 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 - *2024.12*: &nbsp;🎉🎉 Paper accepted by AAAI 2025. Congratulations to Yaohui!
 
 # 📝 Publications 
+<a href='https://scholar.google.com/citations?user=y6ijVukAAAAJ'>[Full List of Publications]</a>
 
+## 💾 Data-efficient Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +46,10 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+## 🧠 Continual Learning
+
+## 📱 Multi-modal Learning 
 
 # 🎖 Honors and Awards
 - *2022* World Artificial Intelligence Conference (WAIC) SAIL Award - Rising Star
