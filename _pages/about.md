@@ -59,7 +59,7 @@ Yabin Wang<sup>#</sup>, **Zhiheng Ma**<sup>#</sup>, Zhiwu Huang, Yaowei Wang, Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/joint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Joint Memory Optimization for Continual Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877933)
 **Zhiheng Ma**, Yaohui Ma, Xiaopeng Hong, Huiyun Li, Shizhou Zhang<sup>&</sup>
