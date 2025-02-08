@@ -34,44 +34,44 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 <a href='https://scholar.google.com/citations?user=y6ijVukAAAAJ'>[Full List of Publications]</a>
 
 ## 💾 Data-efficient Learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/bayesian.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Bayesian loss for crowd count estimation with point supervision](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.pdf)
-**Zhiheng Ma**<sup>#</sup>, Xing Wei<sup>#</sup>, Xiaopeng Hong<sup>$</sup>, Yihong Gong
+**Zhiheng Ma**<sup>#</sup>, Xing Wei<sup>#</sup>, Xiaopeng Hong<sup>&</sup>, Yihong Gong
 [**Code**](https://github.com/zhiheng-ma/Bayesian-Crowd-Counting)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/speed.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sparse parameterization for epitomic dataset distillation](https://proceedings.neurips.cc/paper_files/paper/2023/file/9e8889198d16fb79926e71adbe38cae4-Paper-Conference.pdf)
-Xing Wei, Anjia Cao, Funing Yang, **Zhiheng Ma**<sup>$</sup>
+Xing Wei, Anjia Cao, Funing Yang, **Zhiheng Ma**<sup>&</sup>
 [**Code**](https://github.com/MIV-XJTU/SPEED)
 </div>
 </div>
 
 ## 🧠 Continual Learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/isolation.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Isolation and impartial aggregation: A paradigm of incremental learning without interference](https://arxiv.org/pdf/2412.12821)
-Yabin Wang<sup>#</sup>, **Zhiheng Ma**<sup>#</sup>, Zhiwu Huang, Yaowei Wang, Zhou Su, Xiaopeng Hong<sup>$</sup>
-[**Code**](https://github.com/yaohui120/ComprehendEdit)
+[Isolation and impartial aggregation: A paradigm of incremental learning without interference](https://ojs.aaai.org/index.php/AAAI/article/view/26216/25988)
+Yabin Wang<sup>#</sup>, **Zhiheng Ma**<sup>#</sup>, Zhiwu Huang, Yaowei Wang, Zhou Su, Xiaopeng Hong<sup>&</sup>
+[**Code**](https://github.com/iamwangyabin/ESN)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Joint Memory Optimization for Continual Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877933)
-**Zhiheng Ma**, Yaohui Ma, Xiaopeng Hong, Huiyun Li, Shizhou Zhang<sup>$</sup>
+**Zhiheng Ma**, Yaohui Ma, Xiaopeng Hong, Huiyun Li, Shizhou Zhang<sup>&</sup>
 [**Code**](https://github.com/yaohui120/JMOCL)
 </div>
 </div>
 
 ## 📱 Multi-modal Learning 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/edit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing](https://arxiv.org/pdf/2412.12821)
-Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhiheng Ma**<sup>$</sup>
+Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhiheng Ma**<sup>&</sup>
 [**Code**](https://github.com/yaohui120/ComprehendEdit)
 </div>
 </div>
