@@ -26,8 +26,9 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 Paper accepted by T-CSVT. Congratulations to Yaohui!
+- *2025.01*: &nbsp;🎉🎉 Paper accepted by T-PAMI. Congratulations to Hui Lin!
+- *2024.12*: &nbsp;🎉🎉 Paper accepted by AAAI 2025. Congratulations to Yaohui!
 
 # 📝 Publications 
 
