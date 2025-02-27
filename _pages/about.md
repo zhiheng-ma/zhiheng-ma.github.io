@@ -26,6 +26,7 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Paper accepted by CVPR. Congratulations to AnJia!
 - *2025.02*: &nbsp;🎉🎉 Paper accepted by T-CSVT. Congratulations to Yaohui!
 - *2025.01*: &nbsp;🎉🎉 Paper accepted by T-PAMI. Congratulations to Hui Lin!
 - *2024.12*: &nbsp;🎉🎉 Paper accepted by AAAI 2025. Congratulations to Yaohui!
@@ -95,5 +96,5 @@ Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhihe
 - *2021.09 - Now*, Hui Lin, Ph.D. Student, T-PAMI, T-NNLS, CVPR, AAAI ... (co-advised with Prof. Deyu Meng and Prof. Xiaopeng Hong) 
 - *2023.09 - Now*, Zhilin Zhu, Ph.D. Student, ECCV (co-advised with Prof. Xiaopeng Hong) 
 - *2024.09 - Now*, Yaohui Ma, Ph.D. Student, AAAI, T-CSVT (co-advised with Prof. Xiaopeng Hong and Prof. Shizhou Zhang) 
-- *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS (co-advised with Prof. Xing Wei)
+- *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS，CVPR (co-advised with Prof. Xing Wei)
 - *2024.09 - Now*, Xiangyu Zou, Master Student (co-advised with Prof. Huiyun Li)
