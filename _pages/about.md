@@ -26,7 +26,7 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Paper accepted by CVPR. Congratulations to AnJia!
+- *2025.02*: &nbsp;🎉🎉 Paper accepted by CVPR 2025. Congratulations to AnJia!
 - *2025.02*: &nbsp;🎉🎉 Paper accepted by T-CSVT. Congratulations to Yaohui!
 - *2025.01*: &nbsp;🎉🎉 Paper accepted by T-PAMI. Congratulations to Hui Lin!
 - *2024.12*: &nbsp;🎉🎉 Paper accepted by AAAI 2025. Congratulations to Yaohui!
