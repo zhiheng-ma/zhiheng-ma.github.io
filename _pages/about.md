@@ -78,11 +78,11 @@ Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhihe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2025</div><img src='images/flame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/flame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Curriculum Dataset Distillation](https://arxiv.org/pdf/2405.09150)
-**Zhiheng Ma**<sup>#</sup>, Anjia Cao<sup>#</sup>, Funing Yang, Yihong Gong, Xing Wei<sup>&</sup>
-[**Code**](https://github.com/MIV-XJTU/CUDD)
+[FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_FLAME_Frozen_Large_Language_Models_Enable_Data-Efficient_Language-Image_Pre-training_CVPR_2025_paper.pdf)
+Anjia Cao, Xing Wei, **Zhiheng Ma**<sup>&</sup>
+[**Code**](https://github.com/MIV-XJTU/FLAME)
 </div>
 </div>
 
