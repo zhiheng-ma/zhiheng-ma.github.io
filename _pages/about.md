@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi😄! I'm Zhiheng Ma (马智恒), an Assistant Professor, PI and Ph.D. Supervisor in the Faculty of Computility Microelectronics (算力微电子学院) at Shenzhen University of Advanced Technology (SUAT, 深圳理工大学). Prior to this, I was an Assistant Research Professor at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, where I had the privilege to work with Prof. <a href='https://people.ucas.ac.cn/~lhy2015'>Huiyun Li</a>. I received my Ph.D. in 2021 from Xi'an Jiaotong University, under the supervision of IEEE Fellow Prof. <a href='https://gr.xjtu.edu.cn/web/ygong'>Yihong Gong</a> and co-supervision of Prof. <a href='https://hongxiaopeng.com'>Xiaopeng Hong</a>.
 
-My research lies at the fascinating intersection of Computer Vision, AI for Science, and Brain-inspired Intelligence. I am particularly passionate about three cutting-edge areas: Continual Learning (enabling AI systems to learn and adapt continuously), Data-efficient Learning (making AI more practical with limited data and labels), and Multi-modal Learning (integrating information from multiple sources like human brains do). The ultimate goal of my research is to develop intelligent agents that can mirror human-like capabilities - autonomously conducting scientific exploration, continuously acquiring and adapting knowledge, and maintaining long-term memory.
+My research lies at the fascinating intersection of Computer Vision, AI for Science, and Embodied AI. I am particularly passionate about three cutting-edge areas: Continual Learning (enabling AI systems to learn and adapt continuously), Data-efficient Learning (making AI more practical with limited data and labels), and Multi-modal Learning (integrating information from multiple sources like human brains do). The ultimate goal of my research is to develop intelligent agents that can mirror human-like capabilities - autonomously conducting scientific exploration, continuously acquiring and adapting knowledge, and maintaining long-term memory.
 
 I have published more than 30 papers in top-tier AI journals and conferences. For more details about my research work, please check my Google Scholar profile <a href='https://scholar.google.com/citations?user=y6ijVukAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am actively seeking motivated students who share my passion for advancing the frontiers of AI and developing next-generation intelligent systems. If you're interested in joining my research group, please feel free to reach out!
 
@@ -26,6 +26,7 @@ I have published more than 30 papers in top-tier AI journals and conferences. Fo
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Paper accepted by T-IP. Congratulations to AnJia!
 - *2025.02*: &nbsp;🎉🎉 Paper accepted by CVPR 2025. Congratulations to AnJia!
 - *2025.02*: &nbsp;🎉🎉 Paper accepted by T-CSVT. Congratulations to Yaohui!
 - *2025.01*: &nbsp;🎉🎉 Paper accepted by T-PAMI. Congratulations to Hui Lin!
@@ -71,9 +72,17 @@ Yabin Wang<sup>#</sup>, **Zhiheng Ma**<sup>#</sup>, Zhiwu Huang, Yaowei Wang, Zh
 ## 📱 Multi-modal Learning 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/edit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing](https://arxiv.org/pdf/2412.12821)
+[ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing](https://arxiv.org/pdf/2405.09150)
 Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhiheng Ma**<sup>&</sup>
 [**Code**](https://github.com/yaohui120/ComprehendEdit)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2025</div><img src='images/flame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Curriculum Dataset Distillation](https://arxiv.org/pdf/2412.12821)
+**Zhiheng Ma**<sup>#</sup>, Anjia Cao<sup>#</sup>, Funing Yang, Yihong Gong, Xing Wei<sup>&</sup>
+[**Code**](https://github.com/MIV-XJTU/CUDD)
 </div>
 </div>
 
@@ -96,5 +105,5 @@ Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhihe
 - *2021.09 - Now*, Hui Lin, Ph.D. Student, T-PAMI, T-NNLS, CVPR, AAAI ... (co-advised with Prof. Deyu Meng and Prof. Xiaopeng Hong) 
 - *2023.09 - Now*, Zhilin Zhu, Ph.D. Student, ECCV (co-advised with Prof. Xiaopeng Hong) 
 - *2024.09 - Now*, Yaohui Ma, Ph.D. Student, AAAI, T-CSVT (co-advised with Prof. Xiaopeng Hong and Prof. Shizhou Zhang) 
-- *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS，CVPR (co-advised with Prof. Xing Wei)
+- *2023.09 - Now*, Anjia Cao, Master Student, NeurIPS，CVPR, T-IP (co-advised with Prof. Xing Wei)
 - *2024.09 - Now*, Xiangyu Zou, Master Student (co-advised with Prof. Huiyun Li)
