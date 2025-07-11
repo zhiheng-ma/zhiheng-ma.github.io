@@ -72,7 +72,7 @@ Yabin Wang<sup>#</sup>, **Zhiheng Ma**<sup>#</sup>, Zhiwu Huang, Yaowei Wang, Zh
 ## 📱 Multi-modal Learning 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/edit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing](https://arxiv.org/pdf/2405.09150)
+[ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing](https://arxiv.org/pdf/2412.12821)
 Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhiheng Ma**<sup>&</sup>
 [**Code**](https://github.com/yaohui120/ComprehendEdit)
 </div>
@@ -80,7 +80,7 @@ Yaohui Ma, Xiaopeng Hong, Shizhou Zhang, Huiyun Li, Zhilin Zhu, Wei Luo, **Zhihe
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2025</div><img src='images/flame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Curriculum Dataset Distillation](https://arxiv.org/pdf/2412.12821)
+[Curriculum Dataset Distillation](https://arxiv.org/pdf/2405.09150)
 **Zhiheng Ma**<sup>#</sup>, Anjia Cao<sup>#</sup>, Funing Yang, Yihong Gong, Xing Wei<sup>&</sup>
 [**Code**](https://github.com/MIV-XJTU/CUDD)
 </div>
